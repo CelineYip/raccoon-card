@@ -1,0 +1,39 @@
+body {
+	font: .9em 'Roboto', sans-serif;
+  height: 600px;
+  width: 400px;
+  padding: 10px;
+  margin: auto;
+}
+h2 {
+  font-family: "Gill Sans", Sans-Serif;
+  text-align: center;
+}
+.background {
+  background: url("https://www.bhphotovideo.com/images/images500x500/Savage_51_1253_Widetone_Seamless_Background_Paper_45640.jpg");
+  border-radius: 10px;
+  border: 4px outset grey;
+  box-shadow: 10px 10px 5px grey;
+  padding: 10px;
+}
+.picture {
+  width: 300px;
+  height: auto;
+  display: block;
+  margin: auto;
+  padding-bottom: 20px;
+}
+.border {
+  border: 1px solid grey;
+  margin: auto;
+  padding: 10px;
+}
+.fact {
+  font-style: italic;
+}
+.bold {
+  font: bold 1em roboto, sans-serif
+}
+.dots {
+  list-style-type: none;
+}
